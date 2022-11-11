@@ -13,7 +13,7 @@ Adapun tampilan dari program ini adalah sebagai berikut:
 <br><img src="https://github.com/uqifumi/Contoh-Async-Programming-FutureBuilder-Aksi-Tombol/blob/master/dokumentasi/Gambar%2002%20waktu%20sholat.png" width="250"/><br>
 <br><img src="https://github.com/uqifumi/Contoh-Async-Programming-FutureBuilder-Aksi-Tombol/blob/master/dokumentasi/Gambar%2003%20waktu%20sholat.png" width="250"/><br>
 ## Paket yang Digunakan
-http: ^0.13.5 (https://pub.dev/packages/http)
-intl: ^0.17.0 (https://pub.dev/packages/intl)
+- http: ^0.13.5 (https://pub.dev/packages/http)
+- intl: ^0.17.0 (https://pub.dev/packages/intl)
 ## Referensi
 Dokumentasi JSON API dan URL endpoint yang digunakan di program dapat diakses di: https://fathimah.docs.apiary.io/#reference/sholat.
